@@ -16,7 +16,7 @@ The purpose of this project was to learn how to create a html and css file from 
 
 ## future improvements
 
-There won't be any improvement for the project itself but for myself, I would say that getting better at working with html <div> tags as well as getting better at organizing the css file with the different class tages and elements. I think I struggled with organizing my css file and html file effeciently where there wasn't too much redundant code present in either files.
+There won't be any improvement for the project itself but for myself, I would say that getting better at working with html div tags as well as getting better at organizing the css file with the different class tages and elements. I think I struggled with organizing my css file and html file effeciently where there wasn't too much redundant code present in either files.
 
 ## design spec provided
 
